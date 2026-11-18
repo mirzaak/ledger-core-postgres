@@ -1,0 +1,4 @@
+currency_code,total_debit,total_credit,difference,control_status
+BAM,5567492.97,5567492.97,0.00,BALANCED
+EUR,18223442.35,18223442.35,0.00,BALANCED
+USD,2047127.51,2047127.51,0.00,BALANCED

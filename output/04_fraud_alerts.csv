@@ -1,0 +1,5 @@
+alert_type,account_no,full_name,risk_rating,alert_at_utc,exposure,evidence
+VELOCITY,FLAG-velocity,Monitored Customer VELOCITY,HIGH,2026-03-10 14:05:36,5400.00,12 outgoing payments within 10 minutes
+STRUCTURING,FLAG-struct,Monitored Customer STRUCT,HIGH,2026-04-10 14:00:00,58290.00,6 cash deposits just below the threshold within 7 days
+DORMANT_DRAIN,FLAG-dormant,Monitored Customer DORMANT,HIGH,2026-04-20 03:12:00,36000.00,"108 days silent, then 90% of the balance left"
+CIRCULAR_FLOW,FLAG-circa,Monitored Customer CIRCA,HIGH,2026-05-12 13:00:00,8000.00,"funds returned to origin in 3 hops via accounts {303,304,305,303}"
